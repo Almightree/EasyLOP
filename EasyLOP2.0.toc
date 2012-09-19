@@ -1,0 +1,11 @@
+## Interface: 50001
+## Title: EasyLOP2.0
+## Author: Almightree
+## Version: 0.0.1
+## Notes: Loot bidding and distribution add-on for the Leftovers Raiding Community. Updated for use with LOP4.0
+## eMail: almightree@gmail.com
+## URL: http://leftoversraiding.org
+## OptionalDeps: Ace3
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: EasyLOPDB

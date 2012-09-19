@@ -1,0 +1,15 @@
+## Interface: 30200
+## Title: LibOOP
+## Version: 1.0.0
+## Notes: Object-orientation library
+## Author: taleden
+## X-Category: Library
+## X-License: MIT
+## X-Curse-Packaged-Version: 1.0.0
+## X-Curse-Project-Name: LibOOP
+## X-Curse-Project-ID: liboop
+## X-Curse-Repository-ID: wow/liboop/mainline
+
+LibStub\LibStub.lua
+LibOOP\LibOOP.xml
+LibOOP_Utils.lua
