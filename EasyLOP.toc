@@ -9,3 +9,9 @@
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariables: EasyLOPDB
+
+embeds.xml
+EasyLOP.xml
+
+EasyLOP.lua
+Leftovers_Points.lua
